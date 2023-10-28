@@ -1,0 +1,63 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-05 00:45:24 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 00:45:24 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 00:45:24 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:05:15 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:05:15 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:05:15 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:21:56 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:21:56 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:21:56 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:22:18 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:22:18 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:22:18 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:32:12 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:32:12 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:32:12 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:32:40 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:32:40 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:32:40 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:32:56 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:32:56 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:32:57 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:33:32 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:33:32 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:33:33 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:34:02 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:34:02 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:34:02 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:34:28 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:34:28 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:34:29 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:35:28 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:35:28 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:35:28 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:37:15 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:37:15 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:37:15 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:38:37 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:38:37 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:39:31 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:39:31 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:39:43 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:39:43 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:39:43 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:40:04 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:40:04 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:40:04 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:40:52 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:40:52 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:40:52 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:41:14 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:41:14 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:41:14 --> 404 Page Not Found: Assets1/bundles
+ERROR - 2021-09-05 01:41:47 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:41:47 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:41:55 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:41:55 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:42:07 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:42:07 --> 404 Page Not Found: Assets1/css
+ERROR - 2021-09-05 01:43:41 --> Severity: Notice --> Undefined variable: su F:\xampp\htdocs\vysyarajujewellers\application\views\products\create.php 59
+ERROR - 2021-09-05 01:43:41 --> Severity: Notice --> Trying to get property of non-object F:\xampp\htdocs\vysyarajujewellers\application\views\products\create.php 59
+ERROR - 2021-09-05 01:44:01 --> Severity: Notice --> Undefined property: stdClass::$sub_cat_id F:\xampp\htdocs\vysyarajujewellers\application\views\products\create.php 59

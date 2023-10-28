@@ -1,0 +1,44 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:53 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:34:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/system/core/Exceptions.php:271) /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/system/core/Common.php 564
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 05:36:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/system/core/Exceptions.php:271) /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/system/core/Common.php 564
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:15 --> Severity: Notice --> Undefined variable: making /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/application/controllers/services/Products.php 1080
+ERROR - 2022-09-26 06:08:16 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/system/core/Exceptions.php:271) /hermes/bosnacweb04/bosnacweb04cl/b418/ipg.macsoforg/vysyarajujewellers/admin/system/core/Common.php 564
+ERROR - 2022-09-26 13:10:30 --> 404 Page Not Found: Controller/extension
+ERROR - 2022-09-26 13:10:30 --> 404 Page Not Found: Controller/extension
+ERROR - 2022-09-26 13:10:30 --> 404 Page Not Found: Controller/extension
